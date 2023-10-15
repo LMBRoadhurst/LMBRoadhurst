@@ -23,7 +23,7 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-  <img style="margin: 10px" src="https://1000logos.net/java-logo/](https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="Java" height="50" />
+  <img style="margin: 10px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="Java" height="50" />
 </div>
 
 </td>
