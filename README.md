@@ -28,11 +28,11 @@
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=LMBroadhurst&show_icons=true&count_private=true&hide_border=true" align="center" />
 ^ Way off
-<br />
-<br />
+
+<br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LMBroadhurst&theme=cobalt&count_private=true)](https://git.io/streak-stats)
 
-<br />
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LMBroadhurst&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
