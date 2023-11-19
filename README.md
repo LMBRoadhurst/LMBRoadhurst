@@ -22,17 +22,3 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </div>  
-
-<br/>  
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=LMBroadhurst&show_icons=true&count_private=true&hide_border=true" align="center" />
-^ Way off
-
-<br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LMBroadhurst&theme=cobalt&count_private=true)](https://git.io/streak-stats)
-
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LMBroadhurst&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
